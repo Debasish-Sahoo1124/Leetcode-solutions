@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/Debasish-Sahoo1124/Leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/Debasish-Sahoo1124/Leetcode-solutions/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Debasish-Sahoo1124/Leetcode-solutions/tree/master/0025-reverse-nodes-in-k-group) |
+| [0050-powx-n](https://github.com/Debasish-Sahoo1124/Leetcode-solutions/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/Debasish-Sahoo1124/Leetcode-solutions/tree/master/0203-remove-linked-list-elements) |
 ## Sorting
 |  |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Debasish-Sahoo1124/Leetcode-solutions/tree/master/0007-reverse-integer) |
+| [0050-powx-n](https://github.com/Debasish-Sahoo1124/Leetcode-solutions/tree/master/0050-powx-n) |
 ## Stack
 |  |
 | ------- |
