@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Debasish-Sahoo1124/Leetcode-solutions/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Debasish-Sahoo1124/Leetcode-solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Debasish-Sahoo1124/Leetcode-solutions/tree/master/0213-house-robber-ii) |
+| [0229-majority-element-ii](https://github.com/Debasish-Sahoo1124/Leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/Debasish-Sahoo1124/Leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0322-coin-change](https://github.com/Debasish-Sahoo1124/Leetcode-solutions/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Debasish-Sahoo1124/Leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Debasish-Sahoo1124/Leetcode-solutions/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Debasish-Sahoo1124/Leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Debasish-Sahoo1124/Leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0229-majority-element-ii](https://github.com/Debasish-Sahoo1124/Leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Debasish-Sahoo1124/Leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 ## Two Pointers
 |  |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/Debasish-Sahoo1124/Leetcode-solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Debasish-Sahoo1124/Leetcode-solutions/tree/master/0088-merge-sorted-array) |
+| [0229-majority-element-ii](https://github.com/Debasish-Sahoo1124/Leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0455-assign-cookies](https://github.com/Debasish-Sahoo1124/Leetcode-solutions/tree/master/0455-assign-cookies) |
 ## Matrix
 |  |
@@ -178,4 +181,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/Debasish-Sahoo1124/Leetcode-solutions/tree/master/0494-target-sum) |
+## Counting
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/Debasish-Sahoo1124/Leetcode-solutions/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
