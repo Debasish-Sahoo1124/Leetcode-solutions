@@ -11,6 +11,7 @@ public:
             for(int k=1;k<=j;k++){
                if(p[k-1]!='*'){
                 flag=false;
+                break;
                }
             }
             dp[0][j]=flag;
