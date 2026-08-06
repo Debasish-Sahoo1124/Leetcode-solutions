@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/Debasish-Sahoo1124/Leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/Debasish-Sahoo1124/Leetcode-solutions/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Debasish-Sahoo1124/Leetcode-solutions/tree/master/0025-reverse-nodes-in-k-group) |
+| [0044-wildcard-matching](https://github.com/Debasish-Sahoo1124/Leetcode-solutions/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/Debasish-Sahoo1124/Leetcode-solutions/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/Debasish-Sahoo1124/Leetcode-solutions/tree/master/0203-remove-linked-list-elements) |
 ## Sorting
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Debasish-Sahoo1124/Leetcode-solutions/tree/master/0020-valid-parentheses) |
+| [0044-wildcard-matching](https://github.com/Debasish-Sahoo1124/Leetcode-solutions/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/Debasish-Sahoo1124/Leetcode-solutions/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/Debasish-Sahoo1124/Leetcode-solutions/tree/master/0115-distinct-subsequences) |
 | [0516-longest-palindromic-subsequence](https://github.com/Debasish-Sahoo1124/Leetcode-solutions/tree/master/0516-longest-palindromic-subsequence) |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/Debasish-Sahoo1124/Leetcode-solutions/tree/master/0044-wildcard-matching) |
 | [0062-unique-paths](https://github.com/Debasish-Sahoo1124/Leetcode-solutions/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Debasish-Sahoo1124/Leetcode-solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Debasish-Sahoo1124/Leetcode-solutions/tree/master/0064-minimum-path-sum) |
@@ -184,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/Debasish-Sahoo1124/Leetcode-solutions/tree/master/0044-wildcard-matching) |
 | [0455-assign-cookies](https://github.com/Debasish-Sahoo1124/Leetcode-solutions/tree/master/0455-assign-cookies) |
 ## Breadth-First Search
 |  |
