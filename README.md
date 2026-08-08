@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/Debasish-Sahoo1124/Leetcode-solutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Debasish-Sahoo1124/Leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Debasish-Sahoo1124/Leetcode-solutions/tree/master/0189-rotate-array) |
+| [1903-largest-odd-number-in-string](https://github.com/Debasish-Sahoo1124/Leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
 ## Stack
 |  |
 | ------- |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0583-delete-operation-for-two-strings](https://github.com/Debasish-Sahoo1124/Leetcode-solutions/tree/master/0583-delete-operation-for-two-strings) |
 | [1092-shortest-common-supersequence](https://github.com/Debasish-Sahoo1124/Leetcode-solutions/tree/master/1092-shortest-common-supersequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Debasish-Sahoo1124/Leetcode-solutions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1903-largest-odd-number-in-string](https://github.com/Debasish-Sahoo1124/Leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/Debasish-Sahoo1124/Leetcode-solutions/tree/master/0044-wildcard-matching) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Debasish-Sahoo1124/Leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0455-assign-cookies](https://github.com/Debasish-Sahoo1124/Leetcode-solutions/tree/master/0455-assign-cookies) |
+| [1903-largest-odd-number-in-string](https://github.com/Debasish-Sahoo1124/Leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
 ## Breadth-First Search
 |  |
 | ------- |
