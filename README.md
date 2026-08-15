@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Debasish-Sahoo1124/Leetcode-solutions/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/Debasish-Sahoo1124/Leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Debasish-Sahoo1124/Leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Debasish-Sahoo1124/Leetcode-solutions/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/Debasish-Sahoo1124/Leetcode-solutions/tree/master/0031-next-permutation) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Debasish-Sahoo1124/Leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Debasish-Sahoo1124/Leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/Debasish-Sahoo1124/Leetcode-solutions/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/Debasish-Sahoo1124/Leetcode-solutions/tree/master/0072-edit-distance) |
@@ -226,4 +228,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Debasish-Sahoo1124/Leetcode-solutions/tree/master/0056-merge-intervals) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Debasish-Sahoo1124/Leetcode-solutions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
