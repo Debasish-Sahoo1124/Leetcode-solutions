@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Debasish-Sahoo1124/Leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/Debasish-Sahoo1124/Leetcode-solutions/tree/master/0704-binary-search) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Debasish-Sahoo1124/Leetcode-solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [1048-longest-string-chain](https://github.com/Debasish-Sahoo1124/Leetcode-solutions/tree/master/1048-longest-string-chain) |
 ## Hash Table
 |  |
 | ------- |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Debasish-Sahoo1124/Leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0229-majority-element-ii](https://github.com/Debasish-Sahoo1124/Leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Debasish-Sahoo1124/Leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
+| [1048-longest-string-chain](https://github.com/Debasish-Sahoo1124/Leetcode-solutions/tree/master/1048-longest-string-chain) |
 ## Two Pointers
 |  |
 | ------- |
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Debasish-Sahoo1124/Leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/Debasish-Sahoo1124/Leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0876-middle-of-the-linked-list](https://github.com/Debasish-Sahoo1124/Leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
+| [1048-longest-string-chain](https://github.com/Debasish-Sahoo1124/Leetcode-solutions/tree/master/1048-longest-string-chain) |
 ## Binary Search
 |  |
 | ------- |
@@ -102,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Debasish-Sahoo1124/Leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0368-largest-divisible-subset](https://github.com/Debasish-Sahoo1124/Leetcode-solutions/tree/master/0368-largest-divisible-subset) |
 | [0455-assign-cookies](https://github.com/Debasish-Sahoo1124/Leetcode-solutions/tree/master/0455-assign-cookies) |
+| [1048-longest-string-chain](https://github.com/Debasish-Sahoo1124/Leetcode-solutions/tree/master/1048-longest-string-chain) |
 ## Matrix
 |  |
 | ------- |
@@ -149,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/Debasish-Sahoo1124/Leetcode-solutions/tree/master/0115-distinct-subsequences) |
 | [0516-longest-palindromic-subsequence](https://github.com/Debasish-Sahoo1124/Leetcode-solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/Debasish-Sahoo1124/Leetcode-solutions/tree/master/0583-delete-operation-for-two-strings) |
+| [1048-longest-string-chain](https://github.com/Debasish-Sahoo1124/Leetcode-solutions/tree/master/1048-longest-string-chain) |
 | [1092-shortest-common-supersequence](https://github.com/Debasish-Sahoo1124/Leetcode-solutions/tree/master/1092-shortest-common-supersequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Debasish-Sahoo1124/Leetcode-solutions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1903-largest-odd-number-in-string](https://github.com/Debasish-Sahoo1124/Leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
@@ -178,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/Debasish-Sahoo1124/Leetcode-solutions/tree/master/0518-coin-change-ii) |
 | [0583-delete-operation-for-two-strings](https://github.com/Debasish-Sahoo1124/Leetcode-solutions/tree/master/0583-delete-operation-for-two-strings) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Debasish-Sahoo1124/Leetcode-solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [1048-longest-string-chain](https://github.com/Debasish-Sahoo1124/Leetcode-solutions/tree/master/1048-longest-string-chain) |
 | [1092-shortest-common-supersequence](https://github.com/Debasish-Sahoo1124/Leetcode-solutions/tree/master/1092-shortest-common-supersequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Debasish-Sahoo1124/Leetcode-solutions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 ## Memoization
